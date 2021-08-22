@@ -41,7 +41,7 @@ This project is a food delivery application. In this project I learned the most 
 #### Splash, Onboarding, Login Screens
 -----
 
-<img src="./gifs/login.gif" height="600px" width="250px"/>
+<img src="./gifs/login.gif" height="600px" width="300px"/>
 
 #### Home Screen
 -----
@@ -52,21 +52,21 @@ This project is a food delivery application. In this project I learned the most 
 * Restaurants can be search by name and district
 * Restaurants can be filtered by category
 
-<img src="./gifs/home_screen.gif" height="600px" width="250px"/>
+<img src="./gifs/home_screen.gif" height="600px" width="300px"/>
 
 #### Restaurant Add Screen
 -----
 
 * Add button only appears for admin users
 
-<img src="./gifs/restaurant_add.gif" height="600px" width="250px"/>
+<img src="./gifs/restaurant_add.gif" height="600px" width="300px"/>
 
 #### Food Add Screen
 -----
 
 * Add button only appears for admin users
 
-<img src="./gifs/food_add.gif" height="600px" width="250px"/>
+<img src="./gifs/food_add.gif" height="600px" width="300px"/>
 
 #### Order Card Screen, Last Orders Screen
 -----
@@ -74,12 +74,12 @@ This project is a food delivery application. In this project I learned the most 
 * Clear button clears the basket
 * Order button send orders to last orders at profile screen
 
-<img src="./gifs/order.gif" height="600px" width="250px"/>
+<img src="./gifs/order.gif" height="600px" width="300px"/>
 
 #### Profile, Update User
 -----
 
-<img src="./gifs/profile.gif" height="600px" width="250px"/>
+<img src="./gifs/profile.gif" height="600px" width="300px"/>
 
 ## Acknowledgements
 
